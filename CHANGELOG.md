@@ -51,3 +51,15 @@
 ## [0.1.11] - 2021.10.25
 
 - Update flutter_svg version to 0.23.0+1
+
+## [1.0.1] - 2022.1.19
+
+- Release 1.0.1, support svg from network
+
+## [1.0.2] - 2022.1.27
+
+- Bump to 1.0.2
+
+## [1.0.3] - 2022.2.11
+
+- Bump to 1.0.3
